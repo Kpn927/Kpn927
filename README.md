@@ -24,7 +24,7 @@ Soy **Ingeniero de Software** especializado en **Desarrollo Backend y Sistemas**
 | :--- | :--- |
 | **Lenguajes** | `JavaScript` `Java` `Python` `Dart` `C++` |
 | **Backend y APIs** | `Node.js` `Express` `Django` `APIs REST` `WebSockets` |
-| **Frontend y Mobile** | `Flutter` `HTML5/CSS3` |
+| **Frontend y Mobile** | `Flutter` `HTML5/CSS3` `Vue` `React` `React Native` `Angular` |
 | **Bases de Datos y DevOps** | `PostgreSQL` `Docker` `Git` `Linux` `n8n` |
 
 ---
