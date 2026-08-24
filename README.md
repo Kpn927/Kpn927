@@ -1,6 +1,6 @@
 # ¡Hola! Soy Daniel Sosa 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Sosa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daniel-sosa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Sosa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daniel-sosa-314536300/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kpn927-181717?style=flat-square&logo=github)](https://github.com/Kpn927)
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=flat-square&logo=gmail)](mailto:danielsosapenso@gmail.com)
 [![Inglés C1](https://img.shields.io/badge/Inglés-C1_Avanzado-4682B4?style=flat-square)](#)
